@@ -9,7 +9,7 @@
        -*-         By- Srinivas R. Vaidya            -*-                
 *************************************************************************
 
-=== how to play ===
+=== How to play ===
 
  * The User block has to be taken to its DESTINATION form START, facing obstrucles in its path.
  * Use array keys for movement of user Block
@@ -17,4 +17,6 @@
  * However in the last Track you have a DOOR, and you need to reach
    the DESTINATION passing through this DOOR.
 
-Youtube link:: http://youtu.be/T6FXCWaTMUI
+=== Youtube link === 
+
+http://youtu.be/T6FXCWaTMUI
